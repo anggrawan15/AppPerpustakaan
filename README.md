@@ -1,2 +1,0 @@
-# AppPerpustakaan
-Aplikasi web Perpustakaan
